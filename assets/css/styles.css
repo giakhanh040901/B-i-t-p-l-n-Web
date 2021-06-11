@@ -290,6 +290,7 @@ img {
 .dropdown_menu li a::before {
     border-radius: 50%;
     content: "\f192";
+    font-family: "Font Awesome 5 Free";
     font-size: 10px;
     left: 13px;
     line-height: 9px;
